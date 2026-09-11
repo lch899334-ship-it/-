@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/lch899334-ship-it/-/refs/heads/main/11-Krishna-dp.jpg"/>
+<img src=""/>
 </h1>
 
 <p align="center">

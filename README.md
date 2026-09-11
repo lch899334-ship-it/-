@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg" width="350"/>
+<img src="https://raw.githubusercontent.com/lch899334-ship-it/-/refs/heads/main/11-Krishna-dp.jpg"/>
 </p>
 
 <p align="center">

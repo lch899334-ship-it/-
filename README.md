@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CYPHER+X+BOT;WhatsApp+Automation+System;Multi+Pair+Servers;Easy+Deployment"/>
+<img src="https://raw.githubusercontent.com/lch899334-ship-it/-/refs/heads/main/11-Krishna-dp.jpg"/>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deployment
+මෙම බොට් ඔයාලට වැඩදායක බොට් වරයෙකි..🥰😘
 </p>
 
 ---

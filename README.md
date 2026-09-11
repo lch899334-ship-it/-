@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lch899334-ship-it/-/refs/heads/main/11-Krishna-dp.jpg"/>
+<img src="https://share.google/ssmeHs3bOB3rnneqp"/>
 </p>
 
 <p align="center">
